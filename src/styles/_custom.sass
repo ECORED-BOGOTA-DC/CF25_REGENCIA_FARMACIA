@@ -17,3 +17,47 @@
 
   100%
     transform: translateY(0px)
+
+
+.banner-principal__img
+  width: 400px !important
+
+/// ESTILOS TEMA 1 -----------------------------------------------------------------------------
+
+.cajon.color-acento-contenido
+    background-color: #BFEEF4
+
+/// ESTILOS TEMA 3 -----------------------------------------------------------------------------
+
+//bloque texto b ---------------------------------------
+
+.bloque-texto-b1
+  position: relative
+  &::before  
+    top: 5%
+    bottom: 45%
+    left: 0%
+    right: 55%
+    content: ''
+    display: block
+    position: absolute
+    background-color: #BFEEF4 !important
+
+  &__texto 
+      position: relative
+
+// tarjetas ----------------------------------------------
+
+.tarjeta-morada
+  background-color: #ECE7FB
+
+/// listas -----------------
+
+.fa-ul2
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &::before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem

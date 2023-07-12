@@ -1,17 +1,19 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo:
+      'Acciones de mejora del proceso de selección y adquisición',
+    descripcionCurso:
+      'Se abordan conocimientos para seleccionar proveedores de acuerdo con las políticas de aprovisionamiento y normativa vigente, con miras a la implementación de acciones de mejora con hallazgos evidenciados y el sistema integrado gestión de la calidad de los procesos selección y adquisición de medicamentos y dispositivos médicos, y que los aprendices reconozcan fallas que pueden ocurrir para prevenirlas y/o eliminarlas. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        //clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+        //imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
       },
       {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        //clases: ['banner-principal-decorativo-2'],
+        //imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
       },
     ],
   },
@@ -31,27 +33,44 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Sistema Integrado de Gestión (SIG)',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo:
+          'Estándares de calidad en los procesos de selección y adquisición de medicamentos y dispositivos médicos',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Habilitación',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo:
+              'Requisitos para la selección y adquisición de medicamentos y dispositivos médicos',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Control de documentos y registros',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Indicadores de gestión',
+            hash: 't_2_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Planes de mejora',
         desarrolloContenidos: true,
       },
     ],
@@ -84,11 +103,6 @@ export default {
         nombreRuta: 'referencias',
       },
       {
-        icono: 'fas fa-file-pdf',
-        titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
-      },
-      {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
         download: 'downloads/material.zip',
@@ -102,32 +116,90 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Indicadores de gestión',
+      referencia:
+        'González, F. (s. f.). <i>4 indicadores herramientas para la calidad.</i>',
+      tipo: 'Página Web',
+      link: 'https://es.calameo.com/books/0012362347d6b280a65c9',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Congruentes',
+      significado:
+        'Conveniencia, coherencia o relación lógica que se establece entre distintas cosas.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Cuantitativa',
+      significado:
+        'Adjetivo que refiere a la naturaleza numérica de datos, métodos, investigaciones y / o resultados.',
+    },
+    {
+      termino: 'CUM',
+      significado: 'Código Único de Medicamentos.',
+    },
+    {
+      termino: 'EAPB',
+      significado: 'Empresas Administradoras de Planes de Beneficios.',
+    },
+    {
+      termino: 'Extraordinarias',
+      significado: 'Fuera del orden o regla natural o común.',
+    },
+    {
+      termino: 'Habilitación',
+      significado:
+        'Refiere a la capacitación o adecuación para hacer algo o lograr alguna cuestión.',
+    },
+    {
+      termino: 'Invima',
+      significado:
+        'Instituto Nacional de Vigilancia de Medicamentos y Alimentos.',
+    },
+    {
+      termino: 'Patrimonio',
+      significado: 'Conjunto de los bienes y derechos de una persona.',
+    },
+    {
+      termino: 'Restringido',
+      significado: 'Que tiene limitado o reducido el paso de personas o cosas.',
+    },
+    {
+      termino: 'SIG',
+      significado: 'Sistema Integrado de Gestión.',
+    },
+    {
+      termino: 'SGC',
+      significado: 'Sistema de Gestión de la Calidad.',
+    },
+    {
+      termino: 'Suficiencia',
+      significado:
+        'Término que puede usarse para hacer mención a una habilidad, un talento o una capacidad.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'CTMA Consultores. (2018). <i>¿Qué son los sistemas de gestión integrados y por qué los necesitas?</i>',
+      link: 'https://ctmaconsultores.com/sistemas-gestion-integrados/',
+    },
+    {
+      referencia:
+        'González, F. (s. f.). <i>4 indicadores herramientas para la calidad.</i>',
+      link: 'https://es.calameo.com/books/0012362347d6b280a65c9',
+    },
+    {
+      referencia:
+        'Ministerio de Protección Social. (2007). Resolución 1403. Por la cual se determina el modelo de gestión del servicio farmacéutico, se adopta el manual de condiciones esenciales y procedimientos de dicho servicio y se dictan otras disposiciones.  ',
+      link:
+        'https://www.invima.gov.co/documents/20143/453029/Resoluci%C3%B3n+1403+de+2007.pdf/6b2e1ce1-bb34-e17f-03ef-34e35c126949',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2016). Decreto 780. Por medio del cual se expide el Decreto Único Reglamentario del Sector Salud y Protección Social.',
+      link:
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/Decreto%200780%20de%202016.pdf',
     },
   ],
   creditos: [
@@ -136,14 +208,13 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Responsable de Línea de Producción',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+          nombre: 'Nombre completo',
+          cargo: 'Responsable de línea de producción',
+          centro: 'Nombre centro de formación',
         },
       ],
     },
@@ -153,8 +224,7 @@ export default {
         {
           nombre: 'Nombre responsable',
           cargo: 'Nombre del rol',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+          centro: 'Nombre centro de formación',
         },
       ],
     },
@@ -163,27 +233,18 @@ export default {
       autores: [
         {
           nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+          cargo: 'Diseñador web',
+          centro: 'Nombre centro de formación',
         },
         {
           nombre: 'Nombre responsable',
           cargo: 'Desarrollador Fullstack',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+          centro: 'Nombre centro de formación',
         },
         {
           nombre: 'Nombre',
           cargo: 'Animador y Producción audiovisual',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+          centro: 'Nombre centro de formación',
         },
       ],
     },
@@ -191,22 +252,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Zuleidy María Ruiz Torres',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+          nombre: 'Nombre validador',
+          cargo: 'Validación y vinculación en plataforma LMS',
+          centro: 'Nombre centro formación',
         },
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
-        },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+          nombre: 'Nombre validador',
+          cargo: 'Validación de contenidos accesibles',
+          centro: 'Nombre centro formación',
         },
       ],
     },
