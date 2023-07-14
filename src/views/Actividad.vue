@@ -12,7 +12,7 @@
       .col-12.col-md-8.col-lg-9
         
         .titulo-segundo.color-acento-contenido
-          h2 Acciones de mejora del proceso de selección y adquisición
+          h2 Estándares de calidad en adquisición de medicamentos.
         
         p.mb-4 Identificar estándares de calidad en selección y adquisición de medicamentos y dispositivos médicos mediante proveedores confiables, requisitos rigurosos y control documental, para lograr excelencia en productos sanitarios.
 
@@ -21,7 +21,7 @@
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Relacionar términos
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/index.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 
