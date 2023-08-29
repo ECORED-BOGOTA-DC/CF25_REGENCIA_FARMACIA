@@ -7,8 +7,11 @@
         span 2
       h1 Estándares de calidad en los procesos de selección y adquisición de medicamentos y dispositivos médicos
 
+    .row.justify-content-center.align-items-center.mb-5
+      p En este apartado se presentan los estándares en los procesos de selección y adquisición de medicamentos y dispositivos médicos, a saber, Habilitación, selección y adquisición de medicamentos y dispositivos médicos, control de documentos y registros e indicadores de gestión.
+
     separador
-    #t_1_1.titulo-segundo.color-acento-contenido
+    #t_2_1.titulo-segundo.color-acento-contenido
        h2 2.1 Habilitación
 
     .row.justify-content-center.align-items-center.mb-5
@@ -19,7 +22,7 @@
       .col-lg-7
         p El Ministerio de Salud y Protección Social define el sistema único de habilitación como: 
 
-        p El conjunto de normas, requisitos y procedimientos mediante los cuales se establece, registra, verifica y controla el cumplimiento de las condiciones básicas de capacidad tecnológica y científica, de suficiencia patrimonial y financiera y de capacidad técnico administrativa, indispensables para la entrada y permanencia en el Sistema, los cuales buscan dar seguridad a los usuarios frente a los potenciales riesgos asociados a la prestación de servicios y son de obligatorio cumplimiento por parte de los prestadores de servicios de salud y las empresas administradoras de planes de beneficios (EAPB) .
+        p El conjunto de normas, requisitos y procedimientos mediante los cuales se establece, registra, verifica y controla el cumplimiento de las condiciones básicas de capacidad tecnológica y científica, de suficiencia patrimonial y financiera y de capacidad técnico administrativa, indispensables para la entrada y permanencia en el Sistema, los cuales buscan dar seguridad a los usuarios frente a los potenciales riesgos asociados a la prestación de servicios y son de obligatorio cumplimiento por parte de los prestadores de servicios de salud y las empresas administradoras de planes de beneficios (EAPB).
         
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
@@ -46,7 +49,7 @@
             p En el proceso de adquisición de medicamentos y dispositivos médicos la Resolución 1403 del 2007 es puntual con el siguiente requerimiento: 
             br
             br
-            p En el proceso de adquisición de medicamentos y dispositivos se controlará continuamente el cumplimiento de la normatividad para la contratación administrativa, civil y comercial, según el caso, especialmente, el cumplimiento de los principios de economía, transparencia y selección objetiva del contratista. Además, se tendrá en cuenta el sistema de codificación para medicamentos y dispositivos médicos de acuerdo con lo que establezca para tal fin el Ministerio de la Protección Social (p. 45) .
+            p En el proceso de adquisición de medicamentos y dispositivos se controlará continuamente el cumplimiento de la normatividad para la contratación administrativa, civil y comercial, según el caso, especialmente, el cumplimiento de los principios de economía, transparencia y selección objetiva del contratista. Además, se tendrá en cuenta el sistema de codificación para medicamentos y dispositivos médicos de acuerdo con lo que establezca para tal fin el Ministerio de la Protección Social (p. 45).
 
     .row.justify-content-center.align-items-center.mb-5
       p El sistema de codificación es el CUM, es un número de identificación del medicamento otorgado por el Invima para hacer más fácil la obtención y difusión de la información concerniente al producto en el mercado.
@@ -96,13 +99,19 @@
           .col-md-8.mb-4.mb-md-0
             p Estos objetivos son determinados por cada institución, a continuación, se plantean los más comunes:
 
-            p Evaluar la gestión del proceso de ___ (se escribe el proceso).
-
-            p Identificar las oportunidades de mejora en el proceso de ___ (se escribe el proceso).
-
-            p Sensibilizar al personal involucrado en el proceso de ___ (se escribe el proceso).
-
-            p Tomar medidas preventivas para evitar el impacto negativo en la seguridad de los pacientes.
+            ul.lista-ul--color.fa-ul2
+              li 
+                i.fas.fa-atom(style="color: #7E5EE3")
+                p.mb-0 Evaluar la gestión del proceso de ___ (se escribe el proceso).
+              li 
+                i.fas.fa-atom(style="color: #7E5EE3")
+                p.mb-0 Identificar las oportunidades de mejora en el proceso de ___ (se escribe el proceso).
+              li 
+                i.fas.fa-atom(style="color: #7E5EE3")
+                p.mb-0 Sensibilizar al personal involucrado en el proceso de ___ (se escribe el proceso).
+              li 
+                i.fas.fa-atom(style="color: #7E5EE3")
+                p.mb-0 Tomar medidas preventivas para evitar el impacto negativo en la seguridad de los pacientes.
         
           .col-md-4
             figure

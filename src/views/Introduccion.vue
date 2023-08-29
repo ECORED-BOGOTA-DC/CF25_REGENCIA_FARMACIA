@@ -15,17 +15,11 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/introduccion/img1.png')})`}"
         )
         .bloque-texto-g__texto.p-4
-          b ¿Sabía que la dispensación y distribución de medicamentos y dispositivos médicos son dos de los seis procesos generales del servicio farmacéutico?
-          br
-          br
-          p Se encuentran reglamentados por la resolución 1403 del 2007 y aunque ambos funcionan de manera diferente, tienen una particularidad y es que parten de una prescripción médica otorgada por un médico a un paciente. La entrega de los productos farmacéuticos prescritos se realiza directamente al paciente por medio del proceso de dispensación y a la enfermera responsable de su administración por medio del proceso de distribución. Así mismo cabe mencionar que la efectividad en la terapia medicamentosa de un paciente también está ligada a la correcta administración de los medicamentos.
+          p Los procesos y procedimientos de selección y adquisición de medicamentos y dispositivos médicos son parte vital del funcionamiento de un servicio farmacéutico, por lo cual es necesario que estos se lleven a cabo cumpliendo en todo momento con los protocolos de calidad establecidos por la normatividad legal vigente. Lo que permite que esto sea posible, es la implementación de un sistema de gestión de la calidad que verifique y controle, constantemente, la forma de operación de dichos procesos y garantizar la perfección en la calidad de los mismos.
 
 
     .row.justify-content-center.align-items-center.mb-5
-      p A continuación, se abordarán diferentes temas relacionados con ambos procesos que permitirán al lector ahondar en las particularidades de cada uno de ellos y comprender que tanto la dispensación como la distribución son actos profesionales propios de los farmacéuticos y son el origen del uso racional de los medicamentos. También se abordarán algunos puntos importantes de la administración de medicamentos que van unidos a toda la información anteriormente estudiada.
-
-      h5.text-center ¡Muchos éxitos en este proceso de aprendizaje!
-
+      p En este componente formativo, se abordan diferentes temas relacionados con la verificación y control de los procesos y procedimientos de selección y adquisición de medicamentos y dispositivos médicos en un servicio farmacéutico, para que los aprendices reconozcan la importancia y necesidad de la implementación del sistema de gestión de calidad.
 
 
 

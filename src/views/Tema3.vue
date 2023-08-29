@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-5
       p Estos son los mecanismos para vigilar y perfeccionar el rendimiento de los procesos en general del servicio farmacéutico, por lo cual es necesario instaurar objetivos y detectar oportunidades de mejora partiendo de los resultados obtenidos en las auditorías internas o autoevaluaciones.
 
-      p Dentro de la mejora continua de la calidad de los procesos existen dos acciones a tomar, a saber:
+      p Dentro de la mejora continua de la calidad de los procesos existen dos acciones a tomar:
 
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta--container.row.mb-5

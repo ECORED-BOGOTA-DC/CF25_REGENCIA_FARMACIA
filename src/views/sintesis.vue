@@ -5,7 +5,7 @@
 
     p Los procesos de selección y adquisición de medicamentos y dispositivos médicos deben cumplir con protocolos de calidad establecidos legalmente. La implementación de un sistema de gestión de calidad garantiza la perfección en la operación de estos procesos. El componente formativo aborda la importancia de este sistema para los aprendices.
 
-    p.mb-5 Por lo anterior es importante reconocer la importancia de las acciones de mejora en selección y adquisición que implican elegir proveedores según políticas y normativas, implementar mejoras basadas en hallazgos y utilizar un sistema integrado de gestión de calidad. Los estándares de calidad y los planes de mejora son fundamentales. Sabiendo esto y para una breve revisión de los temas vistos, puede observar el siguiente esquema:
+    p.mb-5 Por lo anterior, es importante reconocer la importancia de las acciones de mejora en selección y adquisición que implican elegir proveedores según políticas y normativas, implementar mejoras basadas en hallazgos y utilizar un sistema integrado de gestión de calidad. Los estándares de calidad y los planes de mejora son fundamentales. Sabiendo esto y para una breve revisión de los temas vistos, puede observar el siguiente esquema:
 
     .row.justify-content-center
       .col-lg-10.mb-5

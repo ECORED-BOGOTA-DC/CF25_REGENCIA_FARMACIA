@@ -40,11 +40,11 @@
 
       .col-lg-6
         figure
-          img(src='@/assets/curso/temas/tema1/img1.png', alt='imagen decorativa')
+          img(src='@/assets/curso/temas/tema1/img1.svg', alt='imagen decorativa')
 
 
     .row.justify-content-center.align-items-center.mb-5
-      p A nivel farmacéutico, el sistema que rige es el Sistema de Gestión de la Calidad (SGC), el cual está documentado normativamente por la Resolución 1403 de 2007 - capítulo IV – Sistemas de gestión de la calidad (p. 9). También es importante tener presente que cuando se trabaja con el SIG, la gestión de este es por medio de procesos y procedimientos, por lo cual todo establecimiento y servicio farmacéutico debe documentar los procesos generales y los especiales que realice. 
+      p A nivel farmacéutico, el sistema que rige es el Sistema de Gestión de la Calidad (SGC), el cual está documentado normativamente por la Resolución 1403 de 2007 - capítulo IV – Sistemas de gestión de la calidad (p. 9). También es importante tener presente que, cuando se trabaja con el SIG, la gestión de este, se realiza por medio de procesos y procedimientos, por lo cual todo establecimiento y servicio farmacéutico debe documentar los procesos generales y los especiales que realice.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8

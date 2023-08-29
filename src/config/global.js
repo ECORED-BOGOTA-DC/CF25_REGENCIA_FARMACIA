@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Acciones de mejora del proceso de selección y adquisición',
     descripcionCurso:
-      'Se abordan conocimientos para seleccionar proveedores de acuerdo con las políticas de aprovisionamiento y normativa vigente, con miras a la implementación de acciones de mejora con hallazgos evidenciados y el sistema integrado gestión de la calidad de los procesos selección y adquisición de medicamentos y dispositivos médicos, y que los aprendices reconozcan fallas que pueden ocurrir para prevenirlas y/o eliminarlas. ',
+      'Se abordan conocimientos para seleccionar proveedores de acuerdo con las políticas de aprovisionamiento y normativa vigente, con miras a la implementación de acciones de mejora con hallazgos evidenciados y el sistema integrado gestión de la calidad de los procesos selección y adquisición de medicamentos y dispositivos médicos, y que los aprendices reconozcan fallas que pueden ocurrir para prevenirlas y/o eliminarlas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -136,11 +136,11 @@ export default {
     },
     {
       termino: 'CUM',
-      significado: 'Código Único de Medicamentos.',
+      significado: ' Código Único de Medicamentos.',
     },
     {
       termino: 'EAPB',
-      significado: 'Empresas Administradoras de Planes de Beneficios.',
+      significado: ' Empresas Administradoras de Planes de Beneficios.',
     },
     {
       termino: 'Extraordinarias',
@@ -154,7 +154,7 @@ export default {
     {
       termino: 'Invima',
       significado:
-        'Instituto Nacional de Vigilancia de Medicamentos y Alimentos.',
+        ' Instituto Nacional de Vigilancia de Medicamentos y Alimentos.',
     },
     {
       termino: 'Patrimonio',
@@ -165,12 +165,12 @@ export default {
       significado: 'Que tiene limitado o reducido el paso de personas o cosas.',
     },
     {
-      termino: 'SIG',
-      significado: 'Sistema Integrado de Gestión.',
+      termino: 'SGC',
+      significado: ' Sistema de Gestión de la Calidad.',
     },
     {
-      termino: 'SGC',
-      significado: 'Sistema de Gestión de la Calidad.',
+      termino: 'SIG',
+      significado: ' Sistema Integrado de Gestión.',
     },
     {
       termino: 'Suficiencia',
@@ -207,14 +207,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizabal',
+          nombre: 'Claudia Patricía Aristizábal Gutiérres',
           cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -222,9 +223,44 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Lina Marcela Ayala Pardo',
+          cargo: 'Experta temática',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Gustavo Santis Mancipe',
+          cargo: 'Diseñador instruccional',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo:
+            'Diseñadora Instruccional – Revisora Metodológica y Pedagógica',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor pedagógico',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'José Gabriel Ortiz Abella',
+          cargo: 'Revisión y corrección de estilo',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Gloria Lida Alzáte Suárez',
+          cargo: 'Adecuación instruccional',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Metodología para la formación virtual',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -232,19 +268,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          nombre: 'Adriana Marcela Suárez Eljure',
+          cargo: 'Diseño web',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Manuel Felipe Echavarria Orozco',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre',
+          nombre: 'Lady Adriana Ariza Luque',
+          cargo: 'Animación y producción audiovisual',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Laura Gisselle Murcia Pardo',
+          cargo: 'Animación y producción audiovisua',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Ernesto Navarro Jaimes',
           cargo: 'Animador y Producción audiovisual',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -252,14 +303,22 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
-          cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre validador',
-          cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          nombre: 'Lina Marcela Pérez Manchego',
+          cargo: 'Validadora de recursos educativos',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Leyson Fabián Castaño Pérez',
+          cargo: 'Validadora de recursos educativos',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
