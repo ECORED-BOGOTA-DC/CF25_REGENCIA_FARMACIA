@@ -17,7 +17,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema2/img1.svg', alt='imagen decorativa')
+          img(src='@/assets/curso/temas/tema2/img1.svg', alt='Logo del Ministerio de Salud y Protección Social')
 
       .col-lg-7
         p El Ministerio de Salud y Protección Social define el sistema único de habilitación como: 
@@ -86,7 +86,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         figure
-          img(src='@/assets/curso/temas/tema2/img2.svg', alt='imagen decorativa')
+          img(src='@/assets/curso/temas/tema2/img2.svg', alt='Imagen con un semáforo que explica la semaforización de un indicador de la siguiente manera:<br>Color rojo: el valor alcanzado del indicador está fuera del rango, por lo que la meta programada tuvo una falla de planeación<br>Color amarillo: el valor alcanzado del indicador es menor que la meta programada, pero se mantiene dentro del rango establecido<br>Color verde: se mantiene dentro del rango establecido')
 
     .row.justify-content-center.align-items-center.mb-5
       p Dentro de los estándares de calidad de los procesos de selección y adquisición de medicamentos y dispositivos médicos, los indicadores permiten evidenciar el grado de cumplimiento de dichos procesos en cuanto a productividad, impacto, resultados, entre otros. Se debe tener en cuenta que cada indicador evalúa un solo elemento en específico, debe ser de fácil interpretación al leerlo y permitir adquirir la información en forma precisa y en tiempo real.
