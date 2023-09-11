@@ -9,61 +9,61 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        p Un SIG es un instrumento que instaura el protocolo que se debe seguir todos los días al realizar una actividad o procedimiento, con el propósito de:
+        p(data-aos="fade-up") Un SIG es un instrumento que instaura el protocolo que se debe seguir todos los días al realizar una actividad o procedimiento, con el propósito de:
 
         ul.lista-ul--color.mb-3
-          li 
+          li(data-aos="fade-up")
             i.fas.fa-atom(style="color: #7E5EE3")
             | Aprovechar al máximo cada uno de los recursos disponibles.       
-          li 
+          li(data-aos="fade-up")
             i.fas.fa-atom(style="color: #7E5EE3")
             | Mejorar la institución.   
-          li 
+          li(data-aos="fade-up")
             i.fas.fa-atom(style="color: #7E5EE3")
             | Minimizar costos.
-          li 
+          li(data-aos="fade-up")
             i.fas.fa-atom(style="color: #7E5EE3")
             | Aumentar el rendimiento en general  de una organización.   
 
-        p Dentro de una organización, cada dependencia puede tener su propio sistema de gestión, aunque, por mantenimiento y manejo, lo mejor es unir en un mismo sistema las dependencias que por similitud lo permitan. De este modo se tienen:
+        p(data-aos="fade-up") Dentro de una organización, cada dependencia puede tener su propio sistema de gestión, aunque, por mantenimiento y manejo, lo mejor es unir en un mismo sistema las dependencias que por similitud lo permitan. De este modo se tienen:
 
         ul.lista-ul--color.mb-3
-          li 
+          li(data-aos="fade-up") 
             i.fas.fa-atom(style="color: #7E5EE3")
             | Sistema de gestión de la calidad.
-          li 
+          li(data-aos="fade-up") 
             i.fas.fa-atom(style="color: #7E5EE3")
             | Sistema de gestión de seguridad.
-          li 
+          li(data-aos="fade-up") 
             i.fas.fa-atom(style="color: #7E5EE3")
             | Salud en el trabajo, entre otros. 
 
       .col-lg-6
-        figure
+        figure(data-aos="fade-left")
           img(src='@/assets/curso/temas/tema1/img1.svg', alt='imagen decorativa')
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       p A nivel farmacéutico, el sistema que rige es el Sistema de Gestión de la Calidad (SGC), el cual está documentado normativamente por la Resolución 1403 de 2007 - capítulo IV – Sistemas de gestión de la calidad (p. 9). También es importante tener presente que, cuando se trabaja con el SIG, la gestión de este, se realiza por medio de procesos y procedimientos, por lo cual todo establecimiento y servicio farmacéutico debe documentar los procesos generales y los especiales que realice.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8(data-aos="flip-down")
         .cajon.color-acento-contenido.p-4.mb-4
           p.mb-0 La selección y adquisición de medicamentos y dispositivos médicos son dos de los procesos generales según la Resolución 1403 del 2007.
 
-      p Además, el SIG tiene varias ventajas, como son:
+      p(data-aos="fade-left") Además, el SIG tiene varias ventajas, como son:
 
       ul.lista-ul--color.mb-3
-        li 
+        li(data-aos="fade-up") 
           i.fas.fa-atom(style="color: #7E5EE3")
           | Cada una de las actividades maximizan su rendimiento de forma consecutiva.
-        li 
+        li(data-aos="fade-up") 
           i.fas.fa-atom(style="color: #7E5EE3")
           | Minimiza la cantidad de manuales de gestión, el esfuerzo y la dedicación
-        li 
+        li(data-aos="fade-up") 
           i.fas.fa-atom(style="color: #7E5EE3")
           | Se evita la duplicidad de procedimientos e instructivos a seguir.
-        li 
+        li(data-aos="fade-up") 
           i.fas.fa-atom(style="color: #7E5EE3")
           | Hay mucho más control de la información, entre otras. 
 
