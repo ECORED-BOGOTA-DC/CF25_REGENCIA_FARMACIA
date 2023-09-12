@@ -8,7 +8,7 @@
       h1 Estándares de calidad en los procesos de selección y adquisición de medicamentos y dispositivos médicos
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      p En este apartado se presentan los estándares en los procesos de selección y adquisición de medicamentos y dispositivos médicos, a saber, Habilitación, selección y adquisición de medicamentos y dispositivos médicos, control de documentos y registros e indicadores de gestión.
+      p En este apartado se presentan los estándares en los procesos de selección y adquisición de medicamentos y dispositivos médicos, a saber, habilitación, selección y adquisición de medicamentos y dispositivos médicos, control de documentos y registros e indicadores de gestión.
 
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
