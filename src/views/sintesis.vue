@@ -10,7 +10,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.png", alt="Esquema gráfico que resume lo abordado en el componente formativo, indicando lo relacionado con las acciones de mejora del procesos de selección y adquisición, las cuales son:<br>Sistema Integrado de Gestión (SIG): protocolo diario para actividades y procedimientos.<br>Estándares de calidad en los procesos de selección y adquisición de medicamentos y dispositivos médicos.<br>Planes de mejora: vigilan y perfeccionan el rendimiento de los procesos del servicio farmacéutico.")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Esquema gráfico que resume lo abordado en el componente formativo, indicando lo relacionado con las acciones de mejora del procesos de selección y adquisición, las cuales son:<br>Sistema Integrado de Gestión (SIG): protocolo diario para actividades y procedimientos.<br>Estándares de calidad en los procesos de selección y adquisición de medicamentos y dispositivos médicos.<br>Planes de mejora: vigilan y perfeccionan el rendimiento de los procesos del servicio farmacéutico.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
