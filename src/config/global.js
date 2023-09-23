@@ -212,13 +212,13 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricía Aristizábal Gutiérres',
+          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
           cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de Línea de Producción',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
@@ -240,7 +240,7 @@ export default {
         {
           nombre: 'Ana Catalina Córdoba Sus',
           cargo:
-            'Diseñadora Instruccional – Revisora Metodológica y Pedagógica',
+            'Diseñadora Instruccional - Revisora Metodológica y Pedagógica',
           centro:
             'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
@@ -292,7 +292,7 @@ export default {
         },
         {
           nombre: 'Laura Gisselle Murcia Pardo',
-          cargo: 'Animación y producción audiovisua',
+          cargo: 'Animación y producción audiovisual',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
@@ -309,19 +309,19 @@ export default {
       autores: [
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Lina Marcela Pérez Manchego',
-          cargo: 'Validadora de recursos educativos',
+          nombre: 'Lina Marcela Pérez Manchego y vinculación al LMS',
+          cargo: 'Validación de recursos educativos digitales',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Leyson Fabián Castaño Pérez',
-          cargo: 'Validadora de recursos educativos',
+          nombre: 'Leyson Fabian Castaño Pérez',
+          cargo: 'Validación de recursos educativos digitales',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },

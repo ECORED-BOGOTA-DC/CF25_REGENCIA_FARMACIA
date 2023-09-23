@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Acciones de mejora del proceso de selección y adquisición**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://github.com/ECORED-BOGOTA-DC/CF25_REGENCIA_FARMACIA/blob/master/src/styles/_custom.sass](https://github.com/ECORED-BOGOTA-DC/CF25_REGENCIA_FARMACIA/blob/master/src/styles/_custom.sass)
 
 #
 
