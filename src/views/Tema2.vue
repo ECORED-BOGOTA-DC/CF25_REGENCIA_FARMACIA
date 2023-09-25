@@ -37,12 +37,9 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10(data-aos="fade-left")
-        .bloque-texto-b1.color-secundario.p-4
-          .bloque-texto-b__texto
-            p En el proceso de adquisición de medicamentos y dispositivos médicos la Resolución 1403 del 2007 es puntual con el siguiente requerimiento: 
-            br
-            br
-            p En el proceso de adquisición de medicamentos y dispositivos se controlará continuamente el cumplimiento de la normatividad para la contratación administrativa, civil y comercial, según el caso, especialmente, el cumplimiento de los principios de economía, transparencia y selección objetiva del contratista. Además, se tendrá en cuenta el sistema de codificación para medicamentos y dispositivos médicos de acuerdo con lo que establezca para tal fin el Ministerio de la Protección Social (p. 45).
+        .cajon.color-acento-contenido.p-4
+          p En el proceso de adquisición de medicamentos y dispositivos médicos la Resolución 1403 del 2007 es puntual con el siguiente requerimiento: 
+          p.mb-0 En el proceso de adquisición de medicamentos y dispositivos se controlará continuamente el cumplimiento de la normatividad para la contratación administrativa, civil y comercial, según el caso, especialmente, el cumplimiento de los principios de economía, transparencia y selección objetiva del contratista. Además, se tendrá en cuenta el sistema de codificación para medicamentos y dispositivos médicos de acuerdo con lo que establezca para tal fin el Ministerio de la Protección Social (p. 45).
 
     p.mb-5(data-aos="flip-down") El sistema de codificación es el CUM, es un número de identificación del medicamento otorgado por el Invima para hacer más fácil la obtención y difusión de la información concerniente al producto en el mercado.
 
