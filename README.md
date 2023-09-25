@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://github.com/ECORED-BOGOTA-DC/CF25_REGENCIA_FARMACIA/blob/master/src/styles/_custom.sass](https://github.com/ECORED-BOGOTA-DC/CF25_REGENCIA_FARMACIA/blob/master/src/styles/_custom.sass)
+[https://ecored-bogota-dc.github.io/CF25_REGENCIA_FARMACIA/#/](https://ecored-bogota-dc.github.io/CF25_REGENCIA_FARMACIA/#/)
 
 #
 
