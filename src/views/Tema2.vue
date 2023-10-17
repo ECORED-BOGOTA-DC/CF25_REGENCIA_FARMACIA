@@ -27,7 +27,7 @@
           p.mb-0 A nivel general, el establecimiento o servicio farmacéutico debe cumplir con los requisitos de habilitación establecidos en el Decreto 780 del 2016- capítulo 10 y la Resolución 1403 del 2007.
 
     p(data-aos="fade-left") En cuanto a los establecimientos farmacéuticos mayoristas o minoristas, además de cumplir con los requisitos de las normas anteriormente mencionadas, también se deben acoger las impuestas por el ente territorial encargado de aprobar o desaprobar la habilitación, por ejemplo, en el caso de Antioquia es la Dirección Seccional de Salud de Antioquia.
-    p.mb-5(data-aos="fade-left") Los servicios farmacéuticos de alta, mediana y baja complejidad, a más de cumplir con los requisitos de las normas anteriormente mencionadas, también deben seguir los impuestas por la Resolución 3100 del 2009,  por la cual se definen los procedimientos y condiciones de inscripción de los prestadores de servicios de salud y de habilitación de los servicios de salud y se adopta el Manual de Inscripción de Prestadores y Habilitación de Servicios de Salud, debido a que los servicios farmacéuticos están ligados a las instituciones prestadoras de salud.
+    p.mb-5(data-aos="fade-left") Los servicios farmacéuticos de alta, mediana y baja complejidad, a más de cumplir con los requisitos de las normas anteriormente mencionadas, también deben seguir las impuestas por la Resolución 3100 del 2009, por la cual se definen los procedimientos y condiciones de inscripción de los prestadores de servicios de salud y de habilitación de los servicios de salud y se adopta el Manual de Inscripción de Prestadores y Habilitación de Servicios de Salud, debido a que los servicios farmacéuticos están ligados a las instituciones prestadoras de salud.
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -54,20 +54,20 @@
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
        h2 2.4 Indicadores de gestión
 
-    p.mb-5(data-aos="fade-left") Un indicador es la expresión cuantitativa que permite evidenciar el desempeño de un proceso o empresa, cuya dimensión, al compararse con un punto de referencia que suele ser la calidad esperada, puede mostrar una falla de calidad dando un resultado negativo, lo que conlleva a tomar acciones correctivas y preventivas según el caso. 
+    p.mb-5(data-aos="fade-left") Un indicador es la expresión cuantitativa que permite evidenciar el desempeño de un proceso o empresa, cuya dimensión, al compararse con un punto de referencia que suele ser la calidad esperada, puede mostrar una falla de calidad dando un resultado negativo, lo que conlleva tomar acciones correctivas y preventivas según el caso.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4(data-aos="flip-down")
           p.mb-0 Teniendo presente que los indicadores de gestión son una de las columnas principales del programa de auditoría para el mejoramiento continuo de la calidad en la atención al paciente y/o usuario, estos deben ser construidos con claridad y de forma explícita al proceso que se va a medir.
 
-    p(data-aos="fade-left") También debe existir un plan que permita el monitoreo y seguimiento inmediato de cada uno de los indicadores, para lo cual se puede usar la técnica de semaforización, donde el verde indica cumplimiento al 100%, amarillo incumplimiento leve y rojo incumplimiento total.
+    p(data-aos="fade-left") También debe existir un plan que permita el monitoreo y seguimiento inmediato de cada uno de los indicadores, para lo cual se puede usar la técnica de semaforización, donde el verde indica cumplimiento al 100 %, amarillo incumplimiento leve y rojo incumplimiento total.
     p.mb-5(data-aos="fade-left") La siguiente imagen representa la semaforización de un indicador:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/temas/tema2/img2.svg', alt='Imagen con un semáforo que explica la semaforización de un indicador de la siguiente manera:<br>Color rojo: el valor alcanzado del indicador está fuera del rango, por lo que la meta programada tuvo una falla de planeación<br>Color amarillo: el valor alcanzado del indicador es menor que la meta programada, pero se mantiene dentro del rango establecido<br>Color verde: se mantiene dentro del rango establecido')
+          img(src='@/assets/curso/temas/tema2/img2.svg', alt='Imagen con un semáforo que explica la semaforización de un indicador de la siguiente manera: color rojo: el valor alcanzado del indicador está fuera del rango, por lo que la meta programada tuvo una falla de planeación. Color amarillo: el valor alcanzado del indicador es menor que la meta programada, pero se mantiene dentro del rango establecido. Color verde: se mantiene dentro del rango establecido')
 
     p(data-aos="fade-left") Dentro de los estándares de calidad de los procesos de selección y adquisición de medicamentos y dispositivos médicos, los indicadores permiten evidenciar el grado de cumplimiento de dichos procesos en cuanto a productividad, impacto, resultados, entre otros. Se debe tener en cuenta que cada indicador evalúa un solo elemento en específico, debe ser de fácil interpretación al leerlo y permitir adquirir la información en forma precisa y en tiempo real.
     p.mb-5(data-aos="fade-left") A continuación, se relaciona información complementaria de los indicadores:
@@ -93,9 +93,9 @@
           figure
             img(src='@/assets/curso/temas/tema2/img3.png', alt='imagen decorativa')
 
-      .row.justify-content-center.p-4(titulo="Indicadores del proceso de selección de medicamentos y dispositivos médicos")
+      .row.justify-content-center.p-4(titulo="B.	Clasificación de los indicadores")
         .col-lg-8.order-lg-1.order-2
-          p Para la clasificación de los indicadores la normatividad farmacéutica, la <b>Resolución 1403 del 2007</b> plantea tres tipos: 
+          p Para la clasificación de los indicadores, la normatividad farmacéutica, la <b>Resolución 1403 del 2007</b> plantea tres tipos: 
           ul.lista-ul--color.fa-ul2
             li 
               i.fas.fa-atom(style="color: #7E5EE3")

@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Acciones de mejora del proceso de selección y adquisición',
     descripcionCurso:
-      'Se abordan conocimientos para seleccionar proveedores de acuerdo con las políticas de aprovisionamiento y normativa vigente, con miras a la implementación de acciones de mejora con hallazgos evidenciados y el sistema integrado gestión de la calidad de los procesos selección y adquisición de medicamentos y dispositivos médicos, y que los aprendices reconozcan fallas que pueden ocurrir para prevenirlas y/o eliminarlas.',
+      'Se abordan conocimientos para seleccionar proveedores de acuerdo con las políticas de aprovisionamiento y normativa vigente, con miras a la implementación de acciones de mejora con hallazgos evidenciados y el sistema integrado de gestión de la calidad de los procesos de selección y adquisición de medicamentos y dispositivos médicos, y que los aprendices reconozcan fallas que pueden ocurrir para prevenirlas y/o eliminarlas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -103,11 +103,7 @@ export default {
         titulo: 'Descargar PDF',
         download: 'downloads/331502_CF25_DU.pdf',
       },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
+
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -119,7 +115,7 @@ export default {
     {
       tema: 'Indicadores de gestión',
       referencia:
-        'González, F. (s. f.). <i>4 indicadores herramientas para la calidad.</i>',
+        'González, F. (s. f.). <i>4 Indicadores [Herramientas Para la Calidad].</i>',
       tipo: 'Página Web',
       link: 'https://es.calameo.com/books/0012362347d6b280a65c9',
     },
@@ -187,12 +183,12 @@ export default {
     },
     {
       referencia:
-        'González, F. (s. f.). <i>4 indicadores herramientas para la calidad.</i>',
+        'González, F. (s. f.). <i>4 Indicadores [Herramientas Para la Calidad].</i>',
       link: 'https://es.calameo.com/books/0012362347d6b280a65c9',
     },
     {
       referencia:
-        'Ministerio de Protección Social. (2007). Resolución 1403. Por la cual se determina el modelo de gestión del servicio farmacéutico, se adopta el manual de condiciones esenciales y procedimientos de dicho servicio y se dictan otras disposiciones.  ',
+        'Ministerio de Protección Social. (2007). Resolución 1403. Por la cual se determina el Modelo de Gestión del Servicio Farmacéutico, se adopta el Manual de Condiciones Esenciales y Procedimientos y se dictan otras disposiciones. ',
       link:
         'https://www.invima.gov.co/documents/20143/453029/Resoluci%C3%B3n+1403+de+2007.pdf/6b2e1ce1-bb34-e17f-03ef-34e35c126949',
     },
@@ -209,7 +205,7 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizábal Gutiérrez',
-          cargo: 'Responsable del equipo',
+          cargo: 'Líder del Ecosistema',
           centro: 'Dirección General',
         },
         {
@@ -236,7 +232,7 @@ export default {
         {
           nombre: 'Ana Catalina Córdoba Sus',
           cargo:
-            'Diseñadora Instruccional - Revisora Metodológica y Pedagógica',
+            'Diseñadora Instruccional - Revisora metodológica y pedagógica',
           centro:
             'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
