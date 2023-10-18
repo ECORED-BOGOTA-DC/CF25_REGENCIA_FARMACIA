@@ -93,7 +93,7 @@
           figure
             img(src='@/assets/curso/temas/tema2/img3.png', alt='imagen decorativa')
 
-      .row.justify-content-center.p-4(titulo="B.	Clasificación de los indicadores")
+      .row.justify-content-center.p-4(titulo="Clasificación de los indicadores")
         .col-lg-8.order-lg-1.order-2
           p Para la clasificación de los indicadores, la normatividad farmacéutica, la <b>Resolución 1403 del 2007</b> plantea tres tipos: 
           ul.lista-ul--color.fa-ul2

@@ -103,7 +103,11 @@ export default {
         titulo: 'Descargar PDF',
         download: 'downloads/331502_CF25_DU.pdf',
       },
-
+      {
+        icono: 'fas fa-download',
+        titulo: 'Descargar material',
+        download: 'downloads/material.zip',
+      },
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
